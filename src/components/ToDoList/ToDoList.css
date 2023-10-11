@@ -12,7 +12,7 @@ li{
 .completed{
     background-color: green;
     padding: 0 6px;
-    height: fit-content;
+    /* height: fit-content; */
     margin: auto 0;
     border-radius: 4px;
     color: white;
@@ -21,7 +21,7 @@ li{
 .pending{
     background-color: red;
     padding: 0 6px;
-    height: fit-content;
+    /* height: fit-content; */
     margin: auto 0;
     border-radius: 4px;
     color: white;
